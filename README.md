@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @kathirhack
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- My name is M.K.Kathiravan
+- 👀 I’m interested in Programing
+- 🌱 I’m currently learning 9th class
+- my aim genius software Engineer name get any should get!
+- I am located in Thiruvarur, Tamilnadu
+I am completed language c/c++ in 6th standard
+Thank you!
 
 <!---
 kathirhack/kathirhack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
